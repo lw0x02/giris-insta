@@ -1,0 +1,8 @@
+Modüle gerek yok.
+
+Yükleme yapmanıza da gerek yok. Her hangi bir programa ihtiyaç duymayacaksınız, Termux işinizi görecek.
+Kodda hata var ise WhatsApp aracılığı ile mesaj at.
+Kod ile ilgili biraz daha isteğin var ise gene aynı taktiği yapacaksın, WhatsApp aracılığı ile mesaj atacaksın.
+
+Python sürüm güncellemeleri yanlış olursa mesaj yolu ile belirtirsen hallederim. 
+Kolay gelsin.
